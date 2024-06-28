@@ -1,31 +1,10 @@
 """
 ===============================================================================
-ENGR 13300 Fall 2022
+Aarav Patel
 
 Program Description
     User plays Black jack one on one against computer
 
-Assignment Information
-    Assignment:     Individual Project
-    Author:         Aarav Patel
-    Team ID:        LC1 -18
-
-Contributor:
-    My contributor(s) helped me:
-    [x ] understand the assignment expectations without
-        telling me how they will approach it.
-    [x ] understand different ways to think about a solution
-        without helping me plan my solution.
-    [x ] think through the meaning of a specific error or
-        bug present in my code without looking at my code.
-    Note that if you helped somebody else with their code, you
-    have to list that person as a contributor here as well.
-
-ACADEMIC INTEGRITY STATEMENT
-I have not used source code obtained from any other unauthorized
-source, either modified or unmodified. Neither have I provided
-access to my code to another. The project I am submitting
-is my own original work.
 ===============================================================================
 """
 import random
